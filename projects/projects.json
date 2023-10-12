@@ -22,10 +22,10 @@
   {
     "name": "Redux-Shop",
     "desc": "React App with the redux library for the state management.",
-    "image": "",
+    "image": "redux-shop",
     "category": "react",
     "links": {
-      "view": "https://github.com/kamsansari007/redux-shop",
+      "view": "https://64f6fd1bb646287ee3e58d67--react-redux-state-management.netlify.app/",
       "code": "https://github.com/kamsansari007/redux-shop"
     }
   },
