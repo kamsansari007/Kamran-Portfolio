@@ -1,0 +1,123 @@
+[
+  {
+    "name": "MERN Stack",
+    "desc": "Fully fledged ecommerce  CRUD app based on different design patterns. Built using node.js,express,jwt.react.",
+    "image": "MERN",
+    "category": "mern",
+    "links": {
+      "view": "https://ecommerce-h3ik.onrender.com/",
+      "code": "https://github.com/kamsansari007/Ecommerce-MERN-App"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "All in one details and projects to showcase. Built using Html,Css, Js,React.",
+    "image": "Portfolio",
+    "category": "react",
+    "links": {
+      "view": "https://kamsansari007.github.io/portfolio/",
+      "code": "https://github.com/kamsansari007/portfolio"
+    }
+  },
+  {
+    "name": "Redux-Shop",
+    "desc": "React App with the redux library for the state management.",
+    "image": "",
+    "category": "react",
+    "links": {
+      "view": "https://github.com/kamsansari007/redux-shop",
+      "code": "https://github.com/kamsansari007/redux-shop"
+    }
+  },
+  {
+    "name": "Login & Register",
+    "desc": "React App build with the login & register.",
+    "image": "Login-Register",
+    "category": "react",
+    "links": {
+      "view": "https://kamsansari007.github.io/form-task/",
+      "code": "https://github.com/kamsansari007/form-task"
+    }
+  },
+  {
+    "name": "Business Consulting",
+    "desc": "Developed and designed using html,css & js",
+    "image": "Business Consulting",
+    "category": "html_css",
+    "links": {
+      "view": "https://kamsansari007.github.io/sample-business-consulting/",
+      "code": "https://github.com/kamsansari007/sample-business-consulting"
+    }
+  },
+  {
+    "name": "Age Calculator",
+    "desc": "Developed and designed using html,css & js",
+    "image": "Age Calculator",
+    "category": "html_css",
+    "links": {
+      "view": "https://kamsansari007.github.io/sample-business-consulting/",
+      "code": "https://github.com/kamsansari007/age-calculator"
+    }
+  },
+  {
+    "name": "Bangle Store",
+    "desc": "Developed and designed using html,css & js",
+    "image": "Bangle Store",
+    "category": "html_css",
+    "links": {
+      "view": "https://kamsansari007.github.io/age-calculator/",
+      "code": "https://github.com/kamsansari007/age-calculator"
+    }
+  },
+  {
+    "name": "Basic Form",
+    "desc": "Developed and designed using html,css & js",
+    "image": "Basic Form",
+    "category": "html_css",
+    "links": {
+      "view": "https://kamsansari007.github.io/basicform/",
+      "code": "https://github.com/kamsansari007/basicform"
+    }
+  },
+  {
+    "name": "Food Store",
+    "desc": "Developed and designed using html,css & js",
+    "image": "FoodStore",
+    "category": "html_css",
+    "links": {
+      "view": "https://kamsansari007.github.io/foodStore/",
+      "code": "https://github.com/kamsansari007/foodStore"
+    }
+  },
+  {
+    "name": "HomePage Clone",
+    "desc": "Developed and designed using html,css & js",
+    "image": "Homepage clone",
+    "category": "html_css",
+    "links": {
+      "view": "https://kamsansari007.github.io/foodHomepage/",
+      "code": "https://github.com/kamsansari007/foodHomepage"
+    }
+  },
+  {
+    "name": "Shopping Cart",
+    "desc": "Developed and designed using html,css & js",
+    "image": "shopping-cart",
+    "category": "react",
+    "links": {
+      "view": "https://kamsansari007.github.io/small-shopping-cart/",
+      "code": "https://github.com/kamsansari007/small-shopping-cart"
+    }
+  },
+  {
+    "name": "Tech Site",
+    "desc": "Developed and designed using html,css & js",
+    "image": "Techno-site",
+    "category": "react",
+    "links": {
+      "view": "https://kamsansari007.github.io/technology-website/",
+      "code": "https://github.com/kamsansari007/technology-website"
+    }
+  }
+ 
+]
