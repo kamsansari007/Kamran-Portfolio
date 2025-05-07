@@ -1,5 +1,25 @@
 [
   {
+    "name": "CMS Stack",
+    "desc": "Fully fledged dynamic content management system using drupal 10.",
+    "image": "dsci",
+    "category": "cms",
+    "links": {
+      "view": "https://www.dsci.in/",
+      "code": ""
+    }
+  },
+  {
+    "name": "React + Python",
+    "desc": "Fully fledged dynamic webapp using react as frontend and django as backend.",
+    "image": "techsagar",
+    "category": "cms",
+    "links": {
+      "view": "https://www.techsagar.in/",
+      "code": ""
+    }
+  },
+  {
     "name": "MERN Stack",
     "desc": "Fully fledged ecommerce  CRUD app based on different design patterns. Built using node.js,express,jwt.react.",
     "image": "MERN",
